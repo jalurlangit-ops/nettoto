@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Nettoto : Situs Gacor Hari Ini Dan Slot Minimal Deposit 5000 Via Dana</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Nettoto adalah situs gacor yang menawarkan pengalaman bermain slot online yang menyenangkan dan menguntungkan. Dengan berbagai pilihan permainan slot yang mengasyikkan, pemain dapat menikmati sensasi bermain dengan peluang menang yang lebih besar. Situs ini dikenal dengan tingkat kemenangan yang tinggi dan menyediakan banyak bonus menarik yang bisa meningkatkan peluang Anda untuk meraih kemenangan besar" />
+        <meta name="keywords" content="Nettoto, Situs Gacor Hari Ini, Slot Minimal Deposit 5000 Via Dana, Slot Deposit 5000, Slot Online Terpercaya, Daftar Slot Via Dana Tanpa Rekening, Situs Slot Gacor Gampang Maxwin, Link Slot Gacor Terpercaya, Link Gacor Hari Ini" />
+        <meta name="google-site-verification" content="jtFlwdaDnBKk_KOhMUO_NrGvdHvEC48NzJr2czjXFdE" />
+        <meta name="application-name" content="nettoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="nettoto" />
+        <meta name="publisher" content="nettoto" />
+        <meta name="copyright" content="nettoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Nettoto : Situs Gacor Hari Ini Dan Slot Minimal Deposit 5000 Via Dana" />
         <meta property="og:description" content="Nettoto : Situs Gacor Hari Ini Dan Slot Minimal Deposit 5000 Via Dana, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="nettoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="nettoto" />
         <meta name="twitter:title" content="Nettoto : Situs Gacor Hari Ini Dan Slot Minimal Deposit 5000 Via Dana" />
         <meta name="twitter:description" content="Nettoto : Situs Gacor Hari Ini Dan Slot Minimal Deposit 5000 Via Dana, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
