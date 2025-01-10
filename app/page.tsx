@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>nettoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              nettoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, nettoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Ingin merasakan sensasi bermain slot online yang seru dan penuh keuntungan? Nettoto hadir sebagai situs slot gacor terbaik yang menawarkan pengalaman bermain tanpa batas! Dengan fitur-fitur canggih, berbagai pilihan permainan, dan peluang kemenangan besar, Nettoto menjadi destinasi favorit para pecinta slot. Tidak hanya itu, Nettoto juga dikenal sebagai platform yang ramah pemain dengan minimal deposit hanya Rp5.000 via DANA, sehingga siapa pun bisa menikmati keseruannya tanpa harus merogoh kocek dalam-dalam
             </p>
             <p>
-              nettoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Nettoto bukan sekadar situs slot biasa. Dengan tingkat kemenangan yang tinggi dan sistem keamanan terjamin, Nettoto memberikan rasa nyaman bagi setiap pemainnya. Proses deposit yang mudah dan cepat melalui DANA membuat pengalaman bermain semakin praktis. Selain itu, Nettoto selalu menghadirkan promo menarik dan bonus melimpah untuk menambah peluang kemenangan Anda. Jadi, tunggu apa lagi? Bergabunglah sekarang dan rasakan serunya bermain slot gacor di Nettoto
             </p>
             
             <p>
